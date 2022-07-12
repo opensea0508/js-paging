@@ -5,8 +5,6 @@ Paging badges generator
 <img src="https://aralroca.com/images/blog-images/39.gif" alt="Example of paging badges" class="center" />
 
 
-Learn more about it: https://aralroca.com/blog/pagination-badges
-
 
 ## Getting started
 
